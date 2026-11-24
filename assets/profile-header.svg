@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" fill="none" role="img" aria-labelledby="title desc">
-  <title id="title">Liang Chen · 陈亮</title>
+  <title id="title">Liang Chen — Builder and Operator</title>
   <desc id="desc">A dark personal profile banner for Liang Chen, co-founder and COO of SiliconProspect AI. An abstract neural network in lime and lavender accompanies the words Clarity, Trust, and Real-world impact.</desc>
   <defs>
     <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
@@ -23,10 +23,10 @@
   <g font-family="'Segoe UI', Arial, sans-serif">
     <circle cx="68" cy="55" r="4" fill="#c9ff69"/>
     <text x="84" y="60" fill="#c9ff69" font-size="12" font-weight="600" letter-spacing="1.6">SILICONPROSPECT AI</text>
-    <text x="64" y="121" fill="#b9a3ff" font-family="'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="22" letter-spacing="4">陈亮</text>
+    <text x="64" y="121" fill="#b9a3ff" font-size="17" font-weight="500" letter-spacing="2.2">BUILDER &amp; OPERATOR</text>
     <text x="58" y="226" fill="#f3f3f6" font-size="106" font-weight="800" letter-spacing="-5">LIANG CHEN</text>
     <text x="65" y="273" fill="#c9ff69" font-size="17" font-weight="600" letter-spacing="2.1">CLARITY. TRUST. REAL-WORLD IMPACT.</text>
-    <text x="65" y="311" fill="#9598a6" font-size="14" letter-spacing="0.3">Co-founder &amp; COO · 硅基守望</text>
+    <text x="65" y="311" fill="#9598a6" font-size="14" letter-spacing="0.3">Co-founder &amp; COO · SiliconProspect AI</text>
   </g>
 
   <g stroke="url(#edge)" stroke-linecap="round" stroke-linejoin="round">
